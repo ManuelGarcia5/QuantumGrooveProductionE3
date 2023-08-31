@@ -310,12 +310,6 @@
 }
 
 @media screen and (max-width: 780px) {
-  .media-invisible {
-    display: block;
-  }
-  .header, .header-eventos, .header-djs, .header-nosotros, .header-contacto {
-    display: none;
-  }
   /*INDEX*/
   .hero {
     background-image: url(../img/Mediacropped/DjC.jpg);
@@ -363,5 +357,12 @@
   }
   .contacto-titulo {
     padding-top: 80px;
+  }
+  /*NR*/
+  .media-invisible {
+    display: block;
+  }
+  .media {
+    display: none;
   }
 }/*# sourceMappingURL=style.css.map */
