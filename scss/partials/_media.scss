@@ -19,23 +19,21 @@
             padding: 1rem;
             padding-top: 125px;
         }
-    }
-    
-    
+    }    
 
     /*EVENTOS*/
 
     .hero-eventos {
         background-image: url(../img/Mediacropped/RedEsp.jpg);
-    }
 
-    .evento-titulo {
-        padding-top: 80px;
-    }
+        .evento-titulo {
+            padding-top: 80px;
+        }
 
-    .fecha-eventos {
-        padding-top: 130px;
-    }
+        .fecha-eventos {
+            padding-top: 130px;
+        }
+    }    
     
     /*DJS*/
     
@@ -49,27 +47,27 @@
         background-image: url(../img/Mediacropped/Consola.jpg);
         background-position: right;
         color: #ffffff;
-    }
 
-    .nosotros-titulo {
-        padding-top: 80px;
-    }
-
-    .nosotros-lorem {
-        width: auto;
-        box-shadow: none; 
-
-    }
+        .nosotros-titulo {
+            padding-top: 80px;
+        }
+    
+        .nosotros-lorem {
+            width: auto;
+            box-shadow: none; 
+    
+        }
+    }    
 
     /*CONTACTO*/
 
     .hero-contacto {
         background-image: url(../img/Mediacropped/EricPrydzBW.jpg);
         background-position: center;
-    }
 
-    .contacto-titulo {
-        padding-top: 80px;
+        .contacto-titulo {
+            padding-top: 80px;
+        }
     }
 
     /*NR*/

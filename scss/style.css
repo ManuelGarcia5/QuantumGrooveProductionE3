@@ -327,10 +327,10 @@
   .hero-eventos {
     background-image: url(../img/Mediacropped/RedEsp.jpg);
   }
-  .evento-titulo {
+  .hero-eventos .evento-titulo {
     padding-top: 80px;
   }
-  .fecha-eventos {
+  .hero-eventos .fecha-eventos {
     padding-top: 130px;
   }
   /*DJS*/
@@ -343,10 +343,10 @@
     background-position: right;
     color: #ffffff;
   }
-  .nosotros-titulo {
+  .hero-nosotros .nosotros-titulo {
     padding-top: 80px;
   }
-  .nosotros-lorem {
+  .hero-nosotros .nosotros-lorem {
     width: auto;
     box-shadow: none;
   }
@@ -355,7 +355,7 @@
     background-image: url(../img/Mediacropped/EricPrydzBW.jpg);
     background-position: center;
   }
-  .contacto-titulo {
+  .hero-contacto .contacto-titulo {
     padding-top: 80px;
   }
   /*NR*/
