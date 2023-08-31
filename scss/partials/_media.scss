@@ -8,18 +8,20 @@
 
     .hero {
         background-image: url(../img/Mediacropped/DjC.jpg);
+
+        .main, .main-lorem {
+            display: block;
+            justify-content: center;
+            padding: 1rem;
+        }
+    
+        .main-texto {        
+            padding: 1rem;
+            padding-top: 125px;
+        }
     }
     
-    .main, .main-lorem {
-        display: block;
-        justify-content: center;
-        padding: 1rem;
-    }
-
-    .main-texto {        
-        padding: 1rem;
-        padding-top: 125px;
-    }
+    
 
     /*EVENTOS*/
 
