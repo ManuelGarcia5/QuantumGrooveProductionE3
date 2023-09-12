@@ -1,0 +1,25 @@
+/*ANIMACIONES-MENU*/
+
+%menu-item {
+    transform: scale(1.1);
+}
+
+.home:hover {
+    @extend %menu-item;
+}
+
+.eventos:hover {
+    @extend %menu-item;
+}
+
+.djs:hover {
+    @extend %menu-item;
+}
+
+.nosotros:hover {
+    @extend %menu-item;
+}
+
+.contacto:hover {
+    @extend %menu-item;
+}

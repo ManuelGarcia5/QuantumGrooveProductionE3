@@ -250,4 +250,8 @@
   .media {
     display: none;
   }
+}
+/*ANIMACIONES-MENU*/
+.contacto:hover, .nosotros:hover, .djs:hover, .eventos:hover, .home:hover {
+  transform: scale(1.1);
 }/*# sourceMappingURL=style.css.map */
